@@ -1,0 +1,11 @@
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/bin/Debug/netcoreapp3.1/NumCount
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/bin/Debug/netcoreapp3.1/NumCount.deps.json
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/bin/Debug/netcoreapp3.1/NumCount.runtimeconfig.json
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/bin/Debug/netcoreapp3.1/NumCount.runtimeconfig.dev.json
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/bin/Debug/netcoreapp3.1/NumCount.dll
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/bin/Debug/netcoreapp3.1/NumCount.pdb
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/obj/Debug/netcoreapp3.1/NumCount.csprojAssemblyReference.cache
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/obj/Debug/netcoreapp3.1/NumCount.AssemblyInfoInputs.cache
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/obj/Debug/netcoreapp3.1/NumCount.AssemblyInfo.cs
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/obj/Debug/netcoreapp3.1/NumCount.dll
+/home/kevindscott/Downloads/VSCode Workspace/NumCount/obj/Debug/netcoreapp3.1/NumCount.pdb
