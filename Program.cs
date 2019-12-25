@@ -8,13 +8,19 @@ namespace NumCount
         static void Main(string[] args)
         {
             string numberInput = "";
+            int interate = 3;
             if(args.Length > 0){
                 numberInput = args[0];
+
+                if(args[1] != null){
+                    interate = int.Parse(args[1]); 
+                }
+
                 string comdinedNum = "";
 
                 Console.WriteLine(numberInput);
 
-                for(int i=0; i < 3; i++){
+                for(int i=0; i < interate; i++){
 
                     if(comdinedNum != ""){
                         numberInput = comdinedNum;
